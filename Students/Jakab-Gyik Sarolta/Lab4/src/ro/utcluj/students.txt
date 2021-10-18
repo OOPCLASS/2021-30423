@@ -1,0 +1,10 @@
+123 Noemi Veres 1 2 3 4 5
+234 Sarolta Jakab 6 7 8 9
+345 Kata Simon 3 6 5 9 10
+456 Bori Kiss 10 10 10 10
+567 Zoltan Varga 5 6 5 5 5
+678 Roland Balint 3 5 4 7 8
+789 Szabolcs Something 3 4 5 6
+901 Kinga Simon 2 4 6 7
+012 Georgiana Bodea 10 10 10 1
+123 Calin Ceva 3 5 7 8
