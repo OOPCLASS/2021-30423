@@ -1,0 +1,4 @@
+Burger 5 Food 10
+Desk 10 Furniture 199
+PC 20 Electronics 1000
+Banana 2 Food 3

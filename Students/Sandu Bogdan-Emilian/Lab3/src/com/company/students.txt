@@ -1,0 +1,10 @@
+Bogdan Sandu 1 Math Chemistry
+Alex Sandu 2 Math Chemistry
+Popescu Mihai 3 Chemistry
+Cristi Dumitrescu 4 DataBase
+Andew Dada 5 ADC Chemistry
+Jupiter Saturn 6 Math ADC
+Himalaya Nigeria 7 DataBase Chemistry
+Popescu Mihai 3 Chemistry
+Cristi Dumitrescu 4 DataBase
+Andew Dada 5 ADC Chemistry
