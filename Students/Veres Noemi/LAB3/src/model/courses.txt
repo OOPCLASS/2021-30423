@@ -1,0 +1,6 @@
+Electronic_Measurements_And_Sensors 4 P03 123 124
+Data_Structures_And_Algorithms 6 B23 234 235
+Logic_Design 6 P13 567 568
+Foreign_Language 2 D14 D15 D16
+Physics 4 B12 224 225
+Object_Oriented_Programming 5 D21 212 214

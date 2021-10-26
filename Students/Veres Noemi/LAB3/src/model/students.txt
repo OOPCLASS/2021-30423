@@ -1,0 +1,10 @@
+123 Noemi D Veres veres@yahoo.com 0723466182 Computer_Science true 8.65 9.15
+243 Oana E Moraru oana.moraru@yahoo.com 0712466180 Architecture false 7.34 8.54
+139 Ion S Popescu ionut01@gmail.com 0723463101 Architecture true 8.95 9.35
+680 Diana C Zamfir dianaaa28@yahoo.com 0723492672 Computer_Science false 8.15 8.10
+857 David K Muller mullerd@gmail.com 0720179263 Computer_Science true 8.73 8.35
+675 Andrei F Pop popandrei@yahoo.com 0745601959 Computer_Science false 8.20 8.76
+827 Daniel E Vasilescu danieel@gmail.com 0747244010 Architecture false 7.67 8.12
+191 Bogdan D Marinescu bogdimarinescu@gmail.com 0734152678 Architecture true 8.99 8.75
+927 Marieta R Micu marieta.micu@yahooo.com 0747685821 Computer_Science false 7.99 7.56
+456 Raluca T Boca ralboca@yahoo.com 0747567789 Computer_Science false 7.86 8.24
