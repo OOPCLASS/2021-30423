@@ -1,0 +1,6 @@
+Lasagne 10 Food 5
+Table 20 Furniture 50
+SmartPhone 20 Gadgets 150
+TV 15 Electronics 200
+Wine 50 Drinks 15
+Blender 5 Electronics 25
