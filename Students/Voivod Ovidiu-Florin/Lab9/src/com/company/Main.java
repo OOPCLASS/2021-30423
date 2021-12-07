@@ -6,13 +6,13 @@ public class Main {
 	// write your code here
         PrintingService printingService=new PrintingService();
         printingService.setInkAmount(4.0);
-        printingService.setPaperAmount(152);
+        printingService.setPaperAmount(153);
 
         Document document=new Document("Ana are multe multe multe mere",100);
         printingService.print(document);
         System.out.println(printingService.getInkAmount()+" "+printingService.getPaperAmount());
 
-        Document document1=new Document("a venit razvan la noi",50);
+        Document document1=new Document("a venit razvan la noi",52);
         printingService.print(document1);
         System.out.println(printingService.getInkAmount()+" "+printingService.getPaperAmount());
     }

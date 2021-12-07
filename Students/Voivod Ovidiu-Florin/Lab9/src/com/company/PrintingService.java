@@ -23,15 +23,23 @@ public class PrintingService {
     }
 
     public void print(Document document) throws OutOfPaperException, OutOfInkException{
-        if(inkAmount - 0.001 * document.getNumberOfPages() * document.getText().length()<=0){
-            throw new OutOfInkException("Out of Ink");
-        }
-        inkAmount = inkAmount - 0.001 * document.getNumberOfPages() * document.getText().length();
-
-        if(paperAmount - document.getNumberOfPages()<=0){
+        if(this.paperAmount<=0){
             throw new OutOfPaperException("Out of paper!!");
         }
-        paperAmount = paperAmount - document.getNumberOfPages();
+        else if(this.inkAmount<=0){
+            throw new OutOfInkException("Out of Ink");
+        }
+        else if(inkAmount - 0.001 * document.getNumberOfPages() * document.getText().length()<=0){
+            throw new OutOfInkException("Out of Ink");
+        }
+        else if(paperAmount - document.getNumberOfPages()<=0){
+            throw new OutOfPaperException("Out of paper!!");
+        }
+        else{
+            inkAmount = inkAmount - 0.001 * document.getNumberOfPages() * document.getText().length();
+            paperAmount = paperAmount - document.getNumberOfPages();
+        }
+
 
 
     }
